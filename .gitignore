@@ -1,0 +1,5 @@
+# Data extract from the xp3
+data/
+
+# GameAddr
+game_addr.json
